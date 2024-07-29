@@ -17,7 +17,7 @@ $${\color{gray}(※ 목차의 프로젝트를 클릭하시면 상세내용으로
 
  ` 온라인 스토어 유저의 다음 1주일 이내 구매할 상품을 예측하는 프로젝트로 Negative Sampling 및 데이터 증강 기법을 적용하여 추천 시스템의 불균형 문제를 해결하고자 하였습니다. `
 
-📑 4. [한국어 일상 대화 요약(Korean Summarization)][link4]
+📑 4. [한국어 일상 대화 요약(Korean Dialogue Summarization)][link4]
 
  `한국어에 특화된 한국어 일상 대화 데이터를 요약하는 프로젝트로 4-bit QLoRA 기법을 사용한 양자화 기법을 사용하였습니다.`
 
@@ -37,11 +37,11 @@ $${\color{gray}(※ 목차의 프로젝트를 클릭하시면 상세내용으로
  
  
 
-[link1]: 
-[link2]: 
-[link3]: 
-[link4]: 
-[link5]: 
+[link1]: https://github.com/hyeonnjii/House_Price_Prediction
+[link2]: https://github.com/hyeonnjii/Home_Credit-_Credit_Risk_Model_Stability
+[link3]: https://github.com/hyeonnjii/Commerce_Purchase_Behavior_Prediction
+[link4]: https://github.com/hyeonnjii/Korean_Dialogue_Summarization
+[link5]: https://github.com/hyeonnjii/Document_Type_Classification
 
 [link6]: https://github.com/hyeonnjii/EDA_Battlegrounds_PGC2023
 [link7]: https://github.com/hyeonnjii/Reinforcement_Learning_Project?tab=readme-ov-file
