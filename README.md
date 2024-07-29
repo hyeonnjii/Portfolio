@@ -2,9 +2,8 @@
 
 ## 목차(Context)
 
-```diff
-# (※ 목차의 프로젝트를 클릭하시면 상세내용으로 이동합니다.) #
-```
+
+$${\color{gray}(※ 목차의 프로젝트를 클릭하시면 상세내용으로 이동합니다.)}$$
 
 📑 1. [아파트 실거래가 예측(House Price Prediction)][link1]
 
@@ -26,9 +25,17 @@
 
  `Upstage 측의 현업에서 사용하는 이미지 데이터를 가지고 17개의 문서 타입을 분류하는 CV 프로젝트입니다.`   
 
-📊 6. [PGC 2023 우승 팀 우승 요인 분석(EDA)][link6]
+ ## Others
+
+📊 [PGC 2023 우승 팀 우승 요인 분석(EDA)][link6]
 
  `배틀그라운드 공식 대회인 PGC에서 팀의 전략을 향상시키기 위한 목적으로 PGC 2023 우승팀의 우승 요인을 데이터 분석하였습니다.`
+
+📑 [자율 주차 프로젝트(Reinforcement Learning Model of Automatic Car Parking)][link7] 
+
+  `자율 주차에 최적인 성능을 내는 모델을 찾는 것을 목표로 주행의 원리에 대한 수학 공식 적용한 모델과 강화학습 모델의 성능을 비교해보았습니다.`
+ 
+ 
 
 [link1]: 
 [link2]: 
@@ -37,5 +44,4 @@
 [link5]: 
 
 [link6]: https://github.com/hyeonnjii/EDA_Battlegrounds_PGC2023
- 
-
+[link7]: https://github.com/hyeonnjii/Reinforcement_Learning_Project?tab=readme-ov-file
