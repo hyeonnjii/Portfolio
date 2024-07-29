@@ -1,9 +1,8 @@
 # Portfolio
-Data Scientist Portfolio
 
 ## 목차(Context)
 
-(※ 목차의 프로젝트를 클릭하시면 상세내용으로 이동합니다.)
+<code style"color : gray">(※ 목차의 프로젝트를 클릭하시면 상세내용으로 이동합니다.)</code>
 
 📑 1. [아파트 실거래가 예측(House Price Prediction)][link1]
 
